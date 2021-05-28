@@ -11,3 +11,16 @@ C:\Users\joha\source\repos\ExamenDashboard\ExamenDashboard\obj\Debug\ExamenDashb
 C:\Users\joha\source\repos\ExamenDashboard\ExamenDashboard\obj\Debug\ExamenDashboard.exe
 C:\Users\joha\source\repos\ExamenDashboard\ExamenDashboard\obj\Debug\ExamenDashboard.pdb
 C:\Users\joha\source\repos\ExamenDashboard\ExamenDashboard\obj\Debug\ExamenDashboard.ControlesUsuario.Barras.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\bin\Debug\ExamenDashboard.exe.config
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\bin\Debug\ExamenDashboard.exe
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\bin\Debug\ExamenDashboard.pdb
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.csprojAssemblyReference.cache
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.ControlesUsuario.Barras.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.ControlesUsuario.Boton.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.ControlesUsuario.Grafica.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.Form1.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.Properties.Resources.resources
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.csproj.GenerateResource.cache
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.csproj.CoreCompileInputs.cache
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.exe
+C:\Users\joha\Documents\GitHub\GIT\Examen\ExamenDI\ExamenDashboard\obj\Debug\ExamenDashboard.pdb

@@ -16,21 +16,21 @@ namespace ExamenDashboard
         private Panel panelDatos;
         private ControlesUsuario.Grafica grafica;
         private ControlesUsuario.Barras barras;
+        private ControlesUsuario.Tablas tablas;
         public Form1()
         {
             InitializeComponent();
             panelDatos = panelCompleto;
             barras = new ControlesUsuario.Barras();
             grafica = new ControlesUsuario.Grafica();
+            tablas = new ControlesUsuario.Tablas();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            panelCompleto.Controls.Remove(grafica);
-            panelCompleto.Controls.Remove(barras);
+            reset();
             Chart pie = grafica.chart1;
             pie.Series[0].Points.Clear();
-
             int datos = 50;
             int datos2 = 30;
             pie.Series[0].Points.AddXY("Datos1", datos);
@@ -42,12 +42,27 @@ namespace ExamenDashboard
 
         private void button2_Click(object sender, EventArgs e)
         {
-            panelCompleto.Controls.Remove(grafica);
-            panelCompleto.Controls.Remove(barras);
+            reset();
             Chart bar = barras.chart1;
+            bar.Series[0].Points.Clear();
             bar.Series[0].Points.AddXY("a", 2);
             bar.Series[0].Points.AddXY("b", 3);
-            panelCompleto.Controls.Add(bar);
+            bar.Series[0].Points.AddXY("c", 12);
+            bar.Series[0].Points.AddXY("d", 13);
+            panelCompleto.Controls.Add(barras);
+        }
+
+        private void reset()
+        {
+            panelCompleto.Controls.Remove(grafica);
+            panelCompleto.Controls.Remove(barras);
+        }
+
+        private void datosEntablas()
+        {
+            reset();
+            DataGridView dtTablas = tablas.datosTabla;
+
         }
     }
 }
